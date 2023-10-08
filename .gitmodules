@@ -1,0 +1,3 @@
+[submodule "BadgesTAsk/BadgesTAsk/demerzel-badges"]
+	path = BadgesTAsk/BadgesTAsk/demerzel-badges
+	url = https://github.com/tipsyx/demerzel-badges
